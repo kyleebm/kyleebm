@@ -17,5 +17,5 @@ const aboutMe = {
 }   
 ```
 
-[![instaLogo](https://raw.githubusercontent.com/kyleebm/kyleebm/main/images/instagram.png)](https://www.instagram.com/kboiceym/) 
-[![linkedinLogo](https://raw.githubusercontent.com/kyleebm/kyleebm/main/images/linkedin.png)](https://www.linkedin.com/in/kylee-boicey-macdonald-b0210923a/)
+[<img src="https://raw.githubusercontent.com/kyleebm/kyleebm/main/images/instagram.png" width="16" height="16" >](https://www.instagram.com/kboiceym/) 
+[<img src="https://raw.githubusercontent.com/kyleebm/kyleebm/main/images/linkedin.png" width="16" height="16" >](https://www.linkedin.com/in/kylee-boicey-macdonald-b0210923a/)
