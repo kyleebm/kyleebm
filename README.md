@@ -21,5 +21,5 @@ const aboutMe = {
 [instaLogo]:(../images/instagram.png)
 [linkedinLogo]:(../images/linkedin.png) 
 
-[instaLogo](https://www.instagram.com/kboiceym/) 
-[linkedinLogo](https://www.linkedin.com/in/kylee-boicey-macdonald-b0210923a/)
+![instaLogo](https://www.instagram.com/kboiceym/) 
+![linkedinLogo](https://www.linkedin.com/in/kylee-boicey-macdonald-b0210923a/)
