@@ -8,7 +8,7 @@ kyleebm/kyleebm is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes. -->
 
 ```javascript
-const aboutMe {
+const aboutMe = {
     name: 'Kylee',
     location: 'Canada'
     code: ['HTML', 'JavaScript', 'CSS', 'React', 'Node', 'MongoDB'],
@@ -18,3 +18,8 @@ const aboutMe {
 ```
 
 
+[instaLogo]:(/images/instagram.png)
+[linkedinLogo]:(/images/linkedin.png) 
+
+[instaLogo](https://www.instagram.com/kboiceym/) 
+[linkedinLogo](https://www.linkedin.com/in/kylee-boicey-macdonald-b0210923a/)
