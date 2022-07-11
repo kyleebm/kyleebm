@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes. -->
 const aboutMe = {
     name: 'Kylee',
     location: 'Canada',
-    code: ['HTML', 'JavaScript', 'CSS', 'React', 'Node', 'MongoDB'],
+    codeExperience: ['HTML', 'JavaScript', 'CSS', 'React', 'Node', 'MongoDB'],
     education: 'Bachelors in Mathematics',
     hobbies: ['Brazilian Jiu Jitsu', 'video Games', 'traveling'] 
 }   
